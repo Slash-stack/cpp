@@ -1,0 +1,3 @@
+/home/yurei/ensimag/2A/cpp/tp1/Lab1-Spring2022/build/CMakeFiles/exe.dir
+/home/yurei/ensimag/2A/cpp/tp1/Lab1-Spring2022/build/CMakeFiles/edit_cache.dir
+/home/yurei/ensimag/2A/cpp/tp1/Lab1-Spring2022/build/CMakeFiles/rebuild_cache.dir

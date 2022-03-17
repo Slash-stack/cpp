@@ -1,0 +1,4 @@
+/home/yurei/ensimag/2A/cpp/tp2/build/CMakeFiles/benchmark.dir
+/home/yurei/ensimag/2A/cpp/tp2/build/CMakeFiles/main.dir
+/home/yurei/ensimag/2A/cpp/tp2/build/CMakeFiles/edit_cache.dir
+/home/yurei/ensimag/2A/cpp/tp2/build/CMakeFiles/rebuild_cache.dir

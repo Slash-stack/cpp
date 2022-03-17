@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/bin/ninja/linux/ninja -G Ninja /home/yurei/ensimag/2A/cpp/tp2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yurei/ensimag/2A/cpp/tp2/cmake-build-debug
